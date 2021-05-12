@@ -1,0 +1,412 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sriram ",
+      "role": "User",
+      "password": "Sriram@123",
+      "username": "Sriram123",
+      "email": "Sriram@hcl.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "9078342140",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "balance": 3500,
+      "currentbalance": 14000,
+      "pan": "678954345678",
+      "account": "678909876543",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 2,
+      "name": "Keerthi",
+      "role": "User",
+      "password": "Keerthi@123",
+      "username": "Keethu",
+      "email": "Keerthi@hcl.com",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "8867453421",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "balance": 1503,
+      "currentbalance": 1000,
+      "pan": "124567891234",
+      "account": "567890987654",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 3,
+      "name": "Trilok",
+      "role": "User",
+      "password": "Trilok@123",
+      "username": "Trilok123",
+      "email": "Trilok@hcl.com",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "7093089622",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      },
+      "balance": 490,
+      "currentbalance": 2800,
+      "pan": "345678923456",
+      "account": "456789098756",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 4,
+      "name": "Lokesh",
+      "role": "User",
+      "password": "Lokesh@123",
+      "username": "Lokesh123",
+      "email": "Lokesh@hcl.com",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "8134562378",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "pan": "436465567890",
+      "account": "567890654323",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 5,
+      "name": "Hasita",
+      "role": "User",
+      "password": "Hasita@123",
+      "username": "Hasi",
+      "email": "Hasita@hcl.com",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "7986543210",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "pan": "237890543212",
+      "account": "896789674532",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 7,
+      "name": "Harivas",
+      "role": "User",
+      "password": "Harivas@123",
+      "username": "Hari",
+      "email": "Harivas@hcl.com",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "6745342370",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      },
+      "balance": 100,
+      "currentbalance": 1400,
+      "pan": "236789674532",
+      "account": "567894321456",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 8,
+      "name": "Abhiram",
+      "role": "User",
+      "password": "Abhiram@123",
+      "username": "Abhi",
+      "email": "Abhiram@hcl.com",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "8977435234",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "pan": "234567890121",
+      "account": "456789098765",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 9,
+      "name": "Abhishek",
+      "role": "User",
+      "password": "Abhishek@123",
+      "username": "Abhi123",
+      "email": "Abhishek@hcl.com",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "8019225678",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      },
+      "balance": 500,
+      "currentbalance": 1600,
+      "pan": "346576867892",
+      "account": "345678904321",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "name": "Nikhil",
+      "username": "Nikhil999",
+      "email": "Nikhil@hcl.com",
+      "phone": "7032456790",
+      "pan": "FQO0N00892",
+      "account": "987654321034",
+      "id": 11
+    },
+    {
+      "name": "Nandhini",
+      "username": "Nandu",
+      "email": "Nandu@hcl.com",
+      "phone": "9876543210",
+      "pan": "FQO0N00987",
+      "account": "98765439876",
+      "id": 12
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Sriram ",
+      "password": "Sriram@123",
+      "username": "Sriram123 ",
+      "email": "Sriram@hcl.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "balance": 500,
+      "currentbalance": 5000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 2,
+      "name": "Keerthi",
+      "password": "Keerthi@123",
+      "username": "Keethu",
+      "email": "Keerthi@hcl.com",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 3,
+      "name": "Trilok",
+      "password": "Trilok@123",
+      "username": "Trilok123",
+      "email": "Trilok@hcl.com",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      },
+      "balance": 250,
+      "currentbalance": 2500,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 4,
+      "name": "Lokesh",
+      "password": "Lokesh@123",
+      "username": "Lokesh1",
+      "email": "Lokesh@hcl.com",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "balance": 150,
+      "currentbalance": 1500,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 5,
+      "name": "Hasita ",
+      "username": "Hasi",
+      "email": "Hasita@hcl.com",
+      "password": "Hasita@123",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "balance": 200,
+      "currentbalance": 2000,
+      "cType": "current",
+      "sType": "savings"
+    }
+  ]
+}
